@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+	<title>封面故事_三联生活周刊</title>
+	<link>http://app.lifeweek.com.cn?app=rss&amp;controller=index&amp;action=feed&amp;catid=1</link>
+	<description>封面故事</description>
+	<language>zh-cn</language>
+		<item>
+		<title><![CDATA[你有偏见吗?]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0902/54025.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[如何避免成为“乌合之众”]]></description>
+		<pubDate>Wed,02 Sep 2020 04:07:07 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[消失的爱人]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0826/53997.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[杭州失踪案调查]]></description>
+		<pubDate>Wed,26 Aug 2020 04:26:00 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[魏晋风度]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0819/53965.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[士族、隐逸、田园、清谈、造像]]></description>
+		<pubDate>Wed,19 Aug 2020 06:52:00 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[隐秘的美食]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0812/53941.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[湛江  绍兴  开封  凯里]]></description>
+		<pubDate>Wed,12 Aug 2020 02:31:21 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[夏日阅读：鬼故事]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0805/53904.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[一场文学的疗愈]]></description>
+		<pubDate>Wed,05 Aug 2020 03:59:00 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[我家住在长江边]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0729/53882.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[南方大水，何以成灾]]></description>
+		<pubDate>Wed,29 Jul 2020 04:10:30 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[理想学校]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0722/53853.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[20年后重返霍格沃茨]]></description>
+		<pubDate>Wed,22 Jul 2020 04:05:02 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[什么是好的语文教育]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0715/53827.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[回到母语，我们的方法论]]></description>
+		<pubDate>Wed,15 Jul 2020 03:59:00 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[动画教给我们的自由]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0708/53800.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[国漫新生，年轻的想象]]></description>
+		<pubDate>Wed,08 Jul 2020 07:21:00 GMT+8</pubDate>
+	</item>
+		<item>
+		<title><![CDATA[理想婚姻]]></title>
+		<link>http://www.lifeweek.com.cn/2020/0701/53772.shtml</link>
+		<category><![CDATA[封面故事]]></category>
+		<description><![CDATA[幻想、真相与追求]]></description>
+		<pubDate>Wed,01 Jul 2020 04:02:00 GMT+8</pubDate>
+	</item>
+	</channel>
+</rss>
